@@ -5,6 +5,7 @@ import random
 """
 Author: Vinitha Gadiraju
 This program is for the card game Rummy.
+MIT License
 
 Rules:
 - Rummy is a card game based on making sets.
